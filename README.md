@@ -1,3 +1,2 @@
-# new-dev
-my first repository
-this is my first repository
+# command bank
+shell commands and git commands are saved and explained here
